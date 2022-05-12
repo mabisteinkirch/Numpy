@@ -1,10 +1,6 @@
 
-#nao usa o shape nesse caso
-h = np.random.rand(10, 10)
-print (h)
 
-#cria uma matriz identidade
-m = np.eye (3)
+
 
 #cria uma matriz identidade e vc tem que falar qual a matriz que quer cocoar na diagnonal
 m = np.diag (np.array([1, 2, 3, 4]))
