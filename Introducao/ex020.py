@@ -1,11 +1,4 @@
 
-
-
-
-#cria uma matriz identidade e vc tem que falar qual a matriz que quer cocoar na diagnonal
-m = np.diag (np.array([1, 2, 3, 4]))
-print (m)
-
 #aula3
 #indexação e cortes (slice) de arrays
 e = np.arange(10,20)
